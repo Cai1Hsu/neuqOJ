@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tuiVnry8zOK6V5qJ+TPtV/c+MbOzaY/lkgV+7NhjKKSF3P5+mkj4zXIzgtiU35FObBpKppWsTU8TpiSm1SCArQ==",
+  "success": true,
+  "projectFilePath": "/home/caiyi/repos/neuqOJ/neuqOJ.csproj",
+  "expectedPackageFiles": [
+    "/home/caiyi/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.12/microsoft.aspnetcore.app.ref.7.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
