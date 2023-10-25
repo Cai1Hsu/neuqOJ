@@ -138,8 +138,6 @@ public class Problem
 
         p.WaitForExit(TIME_LIMIT);
 
-        p.WaitForExit();
-        
         sw.Stop();
         Console.WriteLine("\"");
 
